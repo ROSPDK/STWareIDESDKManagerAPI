@@ -1,0 +1,194 @@
+[
+  {
+    "codename": "Vanilla Ice Cream",
+    "api": "35",
+    "version": "15",
+    "status": "beta"
+  },
+  {
+    "codename": "Upside Down Cake",
+    "api": "34",
+    "version": "14",
+    "status": "stable"
+  },
+  {
+    "codename": "Tiramisu",
+    "api": "33",
+    "version": "13",
+    "status": "stable"
+  },
+  {
+    "codename": "Snow Cone",
+    "api": "32",
+    "version": "12L",
+    "status": "stable"
+  },
+  {
+    "codename": "Snow Cone",
+    "api": "31",
+    "version": "12",
+    "status": "stable"
+  },
+  {
+    "codename": "Red Velvet Cake",
+    "api": "30",
+    "version": "11",
+    "status": "stable"
+  },
+  {
+    "codename": "Queen Cake",
+    "api": "29",
+    "version": "10",
+    "status": "deprecated"
+  },
+  {
+    "codename": "Pie",
+    "api": "28",
+    "version": "9",
+    "status": "deprecated"
+  },
+  {
+    "codename": "Oreo",
+    "api": "27",
+    "version": "8.1",
+    "status": "deprecated"
+  },
+  {
+    "codename": "Oreo",
+    "api": "26",
+    "version": "8.0",
+    "status": "deprecated"
+  },
+  {
+    "codename": "Nougat",
+    "api": "25",
+    "version": "7.1",
+    "status": "deprecated"
+  },
+  {
+    "codename": "Nougat",
+    "api": "24",
+    "version": "7.0",
+    "status": "deprecated"
+  },
+  {
+    "codename": "Marshmallow",
+    "api": "23",
+    "version": "6.0",
+    "status": "deprecated"
+  },
+  {
+    "codename": "Lollipop",
+    "api": "22",
+    "version": "5.1",
+    "status": "deprecated"
+  },
+  {
+    "codename": "Lollipop",
+    "api": "21",
+    "version": "5.0",
+    "status": "deprecated"
+  },
+  {
+    "codename": "KitKat",
+    "api": "19",
+    "version": "4.4.x",
+    "status": "deprecated"
+  },
+  {
+    "codename": "Jelly Bean",
+    "api": "18",
+    "version": "4.3.x",
+    "status": "deprecated"
+  },
+  {
+    "codename": "Jelly Bean",
+    "api": "17",
+    "version": "4.2.x",
+    "status": "deprecated"
+  },
+  {
+    "codename": "Jelly Bean",
+    "api": "16",
+    "version": "4.1.x",
+    "status": "deprecated"
+  },
+  {
+    "codename": "Ice Cream Sandwich",
+    "api": "15",
+    "version": "4.0.3\n-\n4.0.4",
+    "status": "deprecated"
+  },
+  {
+    "codename": "Ice Cream Sandwich",
+    "api": "14",
+    "version": "4.0.2\n-\n4.0.1",
+    "status": "deprecated"
+  },
+  {
+    "codename": "Honeycomb",
+    "api": "13",
+    "version": "3.2.x",
+    "status": "deprecated"
+  },
+  {
+    "codename": "Honeycomb",
+    "api": "12",
+    "version": "3.1",
+    "status": "deprecated"
+  },
+  {
+    "codename": "Honeycomb",
+    "api": "11",
+    "version": "3.0",
+    "status": "deprecated"
+  },
+  {
+    "codename": "Gingerbread",
+    "api": "10",
+    "version": "2.3.3\n-\n2.3.7",
+    "status": "deprecated"
+  },
+  {
+    "codename": "Gingerbread",
+    "api": "9",
+    "version": "2.3\n-\n2.3.2",
+    "status": "deprecated"
+  },
+  {
+    "codename": "Froyo",
+    "api": "8",
+    "version": "2.2.x",
+    "status": "deprecated"
+  },
+  {
+    "codename": "Eclair",
+    "api": "7",
+    "version": "2.1",
+    "status": "deprecated"
+  },
+  {
+    "codename": "Eclair",
+    "api": "6",
+    "version": "2.0.1",
+    "status": "deprecated"
+  },
+  {
+    "codename": "Eclair",
+    "api": "5",
+    "version": "2.0",
+    "status": "deprecated"
+  },
+  {
+    "codename": "Donut",
+    "api": "4",
+    "version": "1.6",
+    "status": "deprecated"
+  },
+  {
+    "codename": "Cupcake",
+    "api": "3",
+    "version": "1.5",
+    "status": "deprecated"
+  }
+]
