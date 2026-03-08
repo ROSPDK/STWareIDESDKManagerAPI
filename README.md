@@ -6,7 +6,7 @@ This API will show all SDK Manager lists
 
 | Name                                     	| SDK Level 	| Release Date 	|
 |------------------------------------------	|-----------	|--------------	|
-| Android 17 (Cinnamon Bun)           	| 36        	| 2026-06      	|
+| Android 17 (Cinnamon Bun)           	| 37        	| 2026-06      	|
 | Android 16 (Baklava)           	| 36        	| 2025-06      	|
 | Android 15 (Vanilla Ice Cream)           	| 35        	| 2024-09      	|
 | Android 14 (Upside Down Cake)            	| 34        	| 2023-09      	|
