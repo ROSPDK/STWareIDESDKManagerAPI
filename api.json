@@ -1,9 +1,21 @@
 [
   {
+    "codename": "Cinnamon Bun",
+    "api": "37",
+    "version": "17",
+    "status": "beta"
+  },
+  {
+    "codename": "Baklava",
+    "api": "36",
+    "version": "16",
+    "status": "stable"
+  },
+  {
     "codename": "Vanilla Ice Cream",
     "api": "35",
     "version": "15",
-    "status": "beta"
+    "status": "stable"
   },
   {
     "codename": "Upside Down Cake",
